@@ -62,7 +62,7 @@ const App = () => {
             className="z-0 object-cover mt-20 h-72 w-80 -me-20"
           />
           <img
-            src="../public/images/bottles.webp"
+            src="/images/bottles.webp"
             alt=""
             className="z-10 h-80 w-[500px]  "
           />
