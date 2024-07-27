@@ -57,7 +57,7 @@ const App = () => {
 
         <div className="relative flex justify-center -mt-20 ">
           <img
-            src="../public/images/coconut.webp"
+            src="/images/coconut.webp"
             alt=""
             className="z-0 object-cover mt-20 h-72 w-80 -me-20"
           />
@@ -67,12 +67,12 @@ const App = () => {
             className="z-10 h-80 w-[500px]  "
           />
           <img
-            src="../public/images/fruit.webp"
+            src="/images/fruit.webp"
             alt=""
             className="h-80 w-[400px] -ms-36 mt-6 z-30"
           />
           <img
-            src="../public/images/banana.png"
+            src="/images/banana.png"
             alt=""
             className="absolute bottom-0 z-40 md:left-72 left-48 w-60 h-36"
           />
@@ -96,17 +96,17 @@ const App = () => {
           </div>
           <div className="relative flex items-baseline md:w-1/2">
             <img
-              src="../public/images/image16.png"
+              src="/images/image16.png"
               alt=""
               className="z-10 w-64 -mr-8 h-36"
             />
             <img
-              src="../public/images/image15.png"
+              src="/images/image15.png"
               alt=""
               className="z-0 h-96"
             />
             <img
-              src="../public/images/image5.png"
+              src="/images/image5.png"
               alt=""
               className="absolute object-contain w-32 h-20 bottom-10 right-24"
             />
@@ -117,17 +117,17 @@ const App = () => {
         <div className="flex flex-col-reverse items-center md:flex-row ">
           <div className="relative flex items-baseline md:w-1/2">
             <img
-              src="../public/images/image6.webp"
+              src="/images/image6.webp"
               alt=""
               className="z-0 md:w-96 w-72 "
             />
             <img
-              src="../public/images/image7.png"
+              src="/images/image7.png"
               alt=""
               className="z-10 h-80 -ms-10"
             />
             <img
-              src="../public/images/image8.png"
+              src="/images/image8.png"
               alt=""
               className="absolute object-contain h-32 -bottom-10 right-2 w-28"
             />
@@ -166,17 +166,17 @@ const App = () => {
           </div>
           <div className="relative flex items-baseline md:w-1/2">
             <img
-              src="../public/images/image9.png"
+              src="/images/image9.png"
               alt=""
               className="w-36 h-28"
             />
             <img
-              src="../public/images/image10.png"
+              src="/images/image10.png"
               alt=""
               className="z-0 h-96"
             />
             <img
-              src="../public/images/image11.webp"
+              src="/images/image11.webp"
               alt=""
               className="object-contain w-80 -ms-10"
             />
@@ -187,17 +187,17 @@ const App = () => {
         <div className="flex flex-col-reverse items-center md:flex-row">
           <div className="relative flex items-baseline md:w-1/2">
             <img
-              src="../public/images/image12.webp"
+              src="/images/image12.webp"
               alt=""
               className="z-20 w-64"
             />
             <img
-              src="../public/images/image13.png"
+              src="/images/image13.png"
               alt=""
               className="z-10 h-96 -ms-10 "
             />
             <img
-              src="../public/images/image14.png"
+              src="/images/image14.png"
               alt=""
               className="absolute z-0 w-52 right-20 bottom-10"
             />
