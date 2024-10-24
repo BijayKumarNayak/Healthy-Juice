@@ -2,7 +2,7 @@
 # Installation
 ``` 
 git clone https://github.com/BijayKumarNayak/Healthy-Juice.git
-cd health
+cd Healthy-Juice
 npm install
 npm run dev
 ```
